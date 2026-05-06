@@ -4,3 +4,9 @@ print("First string is : ",s1)
 print("Second string is : ",s2)
 print("concatenations of two strings :",s1+s2)
 print("Substring of given string :",s1[1:4])
+output 
+Enter first String : 2
+Enter second String : 5
+First string is :  2
+Second string is :  5
+concatenations of two strings : 25
