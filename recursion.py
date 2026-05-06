@@ -6,6 +6,6 @@ def factorial(n):
 num = 5
 print(f"Factorial of {num}:", factorial(num))
 
-#Output
+Output
 
-#Factorial of 5: 120
+Factorial of 5: 120
