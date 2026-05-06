@@ -8,3 +8,21 @@ for x in T:
 if "apple" in T:
   print("\n Yes, 'apple' is in the fruits tuple")
 print("\n Length of Tuple is :",len(T))
+output
+Created tuple is : ('apple', 'banana', 'cherry', 'mango', 'grape', 'orange')
+
+ Second fruit is : banana
+
+ From 3-6 fruits are : ('mango', 'grape', 'orange')
+
+ List of all items in Tuple :
+apple
+banana
+cherry
+mango
+grape
+orange
+
+ Yes, 'apple' is in the fruits tuple
+
+ Length of Tuple is : 6
