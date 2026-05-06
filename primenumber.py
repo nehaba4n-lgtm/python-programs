@@ -9,3 +9,6 @@ if num > 1:
         print("Prime number")
 else:
     print("Not a prime number")
+    output
+    Enter a number: 8
+Not a prime number
