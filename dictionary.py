@@ -19,3 +19,30 @@ dict2=dict1.copy()
 print("\n New Dictionary is :",dict2)
 dict1.clear()
 print("\n Uadated Dictionary is :",dict1)
+output
+Dictionary is : {'StdNo': '532', 'StuName': 'Naveen', 'StuAge': 21, 'StuCity': 'Hyderabad'}
+
+ Student Name is : Naveen
+
+ Student City is : Hyderabad
+
+ All Keys in Dictionary 
+StdNo
+StuName
+StuAge
+StuCity
+
+ All Values in Dictionary 
+532
+Naveen
+21
+Hyderabad
+
+ Updated Dictionary is : {'StdNo': '532', 'StuName': 'Naveen', 'StuAge': 21, 'StuCity': 'Hyderabad', 'Phno': 85457854}
+
+ Updated Dictionary is : {'StdNo': '532', 'StuName': 'Madhu', 'StuAge': 21, 'StuCity': 'Hyderabad', 'Phno': 85457854}
+
+ Updated Dictionary is : {'StdNo': '532', 'StuName': 'Madhu', 'StuCity': 'Hyderabad', 'Phno': 85457854}
+Length of Dictionary is : 4
+
+ New Dictionary is : {'StdNo': '532', 'StuName': 'Madhu', 'StuCity': 'Hyderabad', 'Phno': 85457854}
