@@ -14,3 +14,9 @@ elif opt == 2:
     print("Temperature in Celsius =",cel)
 else:
     print("Invalid Option")
+    output 
+    Choose any Option(1 or 2) : 2
+Convert temperatures from Fahrenheit to Celsius 
+
+Enter Temperature in Fahrenheit: 78
+Temperature in Celsius = 25.555555555555557
