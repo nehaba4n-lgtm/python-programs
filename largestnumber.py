@@ -10,4 +10,9 @@ else:
     largest = c
 
 print("The largest number is:", largest)
+output
+Enter first number: 7
+Enter second number: 8
+Enter third number: 9
+The largest number is: 9.0
 
